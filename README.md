@@ -37,7 +37,7 @@ runs using:
 ARTIC 4.1 reads.)
 
 
-## Truth VCF files
+## Truth VCF files
 
 The truth VCF files are in the directory `Truth_VCFs/`, which contains
 a project per directory. Each VCF file is named using the `Sample` column from
