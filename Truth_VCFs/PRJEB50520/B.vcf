@@ -1,0 +1,12 @@
+##fileformat=VCFv4.2
+##FILTER=<ID=PASS,Description="All filters passed">
+##contig=<ID=MN908947,length=29903>
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##FILTER=<ID=UNSURE,Description="Not sure what the truth is">
+##FILTER=<ID=HET,Description="Heterozygous call">
+##INFO=<ID=NOTE,Number=.,Type=String,Description="Notes on manual checking">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	B
+MN908947	19065	.	T	C	.	PASS	.	GT	1/1
+MN908947	22303	.	T	G	.	PASS	.	GT	1/1
+MN908947	26144	.	G	T	.	PASS	.	GT	1/1
+MN908947	29749	.	ACGATCGAGTG	A	.	PASS	.	GT	1/1
